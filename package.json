@@ -1,4 +1,8 @@
 {
+  "name": "nodelibs",
+  "version": "0.1.5",
+  "description": "node core libs replacement for browser",
+  "private": true,
   "dependencies": {},
   "map": {
     "./child_process.js": {
